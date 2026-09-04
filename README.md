@@ -1,45 +1,50 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Operon-Kodex Banner" width="100%">
+  <img src="assets/banner.png" alt="Operon-Kodex — Interactive Lac Operon Simulator" width="100%">
 </p>
 
 # 🧬 Operon-Kodex
 
-Interactive Lac operon simulator visualizing bacterial gene regulation and inducible gene expression.
+### *Interactive Lac Operon Simulator*
+
+> **Operon-Kodex** is an interactive visualization exploring **bacterial gene regulation**, the lac operon, and inducible gene expression through regulatory and metabolic states.
+>
+> 🧬 **Gene Regulation** · 🦠 **Bacterial Genetics** · 🧪 **Molecular Biology**
+
+**🔬 [Explore the Simulation](YOUR-LINK-HERE)**
 
 ---
 
-## ✨ Features
+## ✦ Features
 
-* **Interactive Regulation:** Explore repressor binding, operator control, and allolactose induction.
-* **Gene Visualization:** Scientifically accurate visualization of *lacZ*, *lacY*, and *lacA* expression.
-* **Metabolic States:** Simulate lactose-dependent ON/OFF operon activity.
-* **Responsive Design:** Optimized for desktop and mobile devices.
+**🧬 Interactive Regulation**  
+Explore repressor binding, operator control, and allolactose-mediated induction.
 
----
+**🔬 Gene Expression Visualization**  
+Visualize the regulation and expression of *lacZ*, *lacY*, and *lacA*.
 
-## 🚀 Built & Hosting
+**🧪 Metabolic States**  
+Simulate lactose-dependent **ON/OFF** states of the lac operon.
 
-* **Repository:** GitHub
-* **Hosting:** GitHub Pages
-
----
-
-## 🛠️ Credits & Acknowledgments
-
-* **Claude Sonnet:** Code architecture. 
-* **Moonshot AI :** Code improvisation.
-* **OpenAI:** Scientific debugging, testing & logic optimization.
+**📱 Responsive Design**  
+Optimized for modern desktop and mobile devices.
 
 ---
 
-## 👤 Author
+## 🧬 Core Concepts
 
-* **Draven Ashcroft**
-  * M.Sc. Ag. Entomology, ASRB NET
-  * DIPS Chain of Institutions
+**Lac Operon · Gene Regulation · Repressor–Operator Interaction · Inducible Expression · Allolactose · Bacterial Genetics**
+
+---
+
+## ⚙️ Technology
+
+**HTML · CSS · JavaScript**
+
+**Repository:** GitHub  
+**Hosting:** GitHub Pages
 
 ---
 
 ## 📜 License
 
-GPL-3.0
+Distributed under the **GNU General Public License v3.0 (GPL-3.0)**.
