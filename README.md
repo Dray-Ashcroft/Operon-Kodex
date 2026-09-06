@@ -40,8 +40,8 @@ Optimized for modern desktop and mobile devices.
 
 **HTML · CSS · JavaScript**
 
-**Repository:** GitHub  
-**Hosting:** GitHub Pages
+**Repository:** GitHub & Codeberg  
+**Hosting:** Cloud flare
 
 ---
 
